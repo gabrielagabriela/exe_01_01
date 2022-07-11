@@ -17,7 +17,7 @@ hr {
     font-size: 20px;
     color: rgb(20, 97, 56);
     text-align: center;
-    background: no-repeat center/cover url("/imagem/imagem_fundo_semana01.jpg");
+    background: no-repeat center/cover url("../imagem/imagem_fundo_semana01.jpg");
     margin: 0px;
 }
 
